@@ -1,0 +1,30 @@
+html {
+  background-image: url("rainpaper.jpg");
+}
+
+body {
+    background: rgba(0, 0, 0, 0);
+}
+
+#weatherIcon {
+    width: 50%;
+    height: 10%;
+}
+
+.custom-card {
+    margin: 50px;
+}
+
+.container {
+    display: inline-block;
+}
+
+.left-icon {
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+.right-text {
+    float: right;
+}

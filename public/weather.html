@@ -4,24 +4,58 @@
     <title>City Finder</title>
   </head>
   <body>
-    <form> Enter A Utah City: 
-      <input type="text" id="cityField" value="">
-      <br>
-      Suggestion: 
-      <span id="txtHint">Empty</span>
-      <input id="weatherButton" type="submit" value="Submit">
-    </form>
-    <p>City</p>
-    <textarea id="displayCity">No City</textarea>
-    <p>Current Weather</p>
-    <div id="weather">No weather</div>
-    <br>
-    <span>Search Stack Exchange Questions:</span>
-    <input type="text" id="stackInput" value="">
-    <button id="submitStack">Search</button>
-    <span id="stackQuestions">Empty</span>
+    <div class="card custom-card">
+      <div class="card-body">
+        <h5 class="card-title">Weather</h5>
+        <form>
+          <div class="form-group">
+            <label for="cityField">Enter A Utah City</label>
+            <input type="text" class="form-control" id="cityField" placeholder="Provo, Kaysville, Pleasant Grove...">
+          </div>
+          <label for="txtHint">Suggestion:</label>
+          <span id="txtHint">Empty</span>
+          <br>
+          <button id="weatherButton" type="submit" class="btn btn-primary">Submit</button>
+          <br>
+          <p>Current Weather</p>
+          <div id="weather"></div>
+        </form>
+      </div>
+    </div>
     
-    <script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <div class="card custom-card">
+      <div class="card-body">
+        <h5 class="card-title">Stack Exchange</h5>
+        <div class="input-group mb-3">
+          <input id="stackInput" type="text" class="form-control" placeholder="Question" aria-describedby="basic-addon2">
+          <div class="input-group-append">
+            <button id="submitStack" class="btn btn-outline-secondary" type="button">Search</button>
+          </div>
+        </div>
+        <span id="stackQuestions"></span>
+      </div>
+    </div>
+    
+    <div class="card custom-card">
+      <div class="card-body">
+        <h5 class="card-title">Owlbot Definitions</h5>
+        <div class="input-group mb-3">
+          <input id="owlInput" type="text" class="form-control" placeholder="Word" aria-describedby="basic-addon2">
+          <div class="input-group-append">
+            <button id="owlSearch" class="btn btn-outline-secondary" type="button">Define</button>
+          </div>
+        </div>
+        <span id="owlDefinition"></span>
+      </div>
+    </div>
+    
+    <!-- bootstrap dependencies -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <!-- local files -->
+    <link rel="stylesheet" href="style.css">
     <script type="text/javascript" src="main.js"></script>
   </body>
 </html>
