@@ -13,8 +13,6 @@ fs.readFile(__dirname + '/revolution.data.txt',function(err,data) {
         var battleLine = line.split(";");
         if (battleLine[7] && (battleLine[7] !== "")) {
             var location = battleLine[7].split(",");
-            console.log(location);
-            // battle;article;date;state;outcome;start_date;victory;battle_location
             var battle = {
                 name: battleLine[0],
                 article: battleLine[1],
@@ -24,26 +22,26 @@ fs.readFile(__dirname + '/revolution.data.txt',function(err,data) {
                 start_date: battleLine[5],
                 victory: battleLine[6],
                 battle_location: {
-                    lat: location[0].toString().trim(),
-                    lng: location[1].toString().trim()
+                    lat: parseFloat(location[0].toString().trim()),
+                    lng: parseFloat(location[1].toString().trim())
                 }
             }
-            console.log("battle: " + i);
-            console.dir(battle);
-            
-            battles.push(battle);
+            var wikipediaTitle = battle.article.substring(battle.article.lastIndexOf('/') + 1).replace(/_/g, '%20');
+            var url = `https://en.wikipedia.org/w/api.php?action=query&prop=extracts&titles=${wikipediaTitle}&exintro=&explaintext=&redirects=&format=json`;
+            (function(battle) {
+                request(url, { json: true }, (err, res, body) => {
+                    if (err) { return console.log(err); }
+                    var data = body.query.pages;
+                    var key = Object.keys(data)[0];
+                    battle.content = data[key].extract;
+                    battles.push(battle);
+                });
+            })(battle);
         }
     }
-    console.dir(battles);
 });
 
-
-/* GET home page. */
-router.get('/', function(req, res, next) {
-    res.sendFile('index.html', {root: 'public' });
-});
-
-/* GET city */
+/* GET battles */
 router.get('/battles', function(req, res, next) {
     res.status(200).json(battles);
 });
