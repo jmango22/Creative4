@@ -1,0 +1,239 @@
+battle;article;date;state;outcome;start_date;victory;battle_location
+Battles of Lexington and Concord;https://en.wikipedia.org/wiki/Battles_of_Lexington_and_Concord;April 19, 1775;Massachusetts;Patriot victory: British forces raiding Concord driven back into Boston with heavy losses.;1775-04-19;Patriot victory;42.4496388889, -71.2308333333
+First Siege of Fort Henry;https://en.wikipedia.org/wiki/Siege_of_Fort_Henry_(1777);;Virginia;Patriot victory;;Patriot victory;40.0638888889, -80.725
+Battle of Freeman's Farm;https://en.wikipedia.org/wiki/Battles_of_Saratoga;September 19, 1777;New York;British tactical victory: First of the two Battles of Saratoga.;1777-09-19;;42.9988888889, -73.6375
+Siege of Augusta;https://en.wikipedia.org/wiki/Siege_of_Augusta;;Georgia;Patriot victory;;Patriot victory;33.4666666667, -81.9666666667
+Battle of Videau's Bridge;https://en.wikipedia.org/wiki/Battle_of_Videau%27s_Bridge;January 2, 1782;South Carolina;British victory;1782-01-02;British victory;
+Mount Hope Bay raids;https://en.wikipedia.org/wiki/Mount_Hope_Bay_raids;May 25-30, 1778;Rhode Island;British victory;1778-05-25;British victory;41.694, -71.216
+Capture of Savannah;https://en.wikipedia.org/wiki/Capture_of_Savannah;December 29, 1778;Georgia;British victory;1778-12-29;British victory;32.0508333333, -81.1038888889
+Grand Assault on Gibraltar;https://en.wikipedia.org/wiki/Great_Siege_of_Gibraltar;September 13, 1782;Gibraltar;British victory;1782-09-13;British victory;36.1397, -5.3551
+Second Battle of Ushant;https://en.wikipedia.org/wiki/Battle_of_Ushant_(1781);December 12, 1781;Bay of Biscay;British victory;1781-12-12;British victory;
+Siege of Yorktown;https://en.wikipedia.org/wiki/Siege_of_Yorktown;;Virginia;Franco-Patriot victory: Cornwallis surrenders his force of over 7,000.;;Patriot victory;37.2391666667, -76.5105555556
+Capture of Demerara and Essequibo;https://en.wikipedia.org/wiki/Capture_of_Demerara_and_Essequibo;;Demerara and Essequibo;Franco-Patriot victory;;Patriot victory;6.8, -58.1666666667
+Crawford expedition;https://en.wikipedia.org/wiki/Crawford_expedition;;Quebec;British-Iroquois victory;;;
+Capture of Fort Bute;https://en.wikipedia.org/wiki/Capture_of_Fort_Bute;September 7, 1779;West Florida;Patriot-Spanish victory;1779-09-07;;30.3236111111, -91.1369444444
+Battle of White Marsh;https://en.wikipedia.org/wiki/Battle_of_White_Marsh;December 5-8, 1777;Pennsylvania;Patriot victory.;1777-12-05;Patriot victory;40.126, -75.212
+Siege of Boonesborough;https://en.wikipedia.org/wiki/Siege_of_Boonesborough;September 7, 1778;Virginia;Patriot victory;1778-09-07;Patriot victory;37.9083333333, -84.2719444444
+Battle of Groton Heights;https://en.wikipedia.org/wiki/Battle_of_Groton_Heights;September 6, 1781;Connecticut;British victory;1781-09-06;British victory;41.3566666667, -72.0819444444
+Tryon's raid;https://en.wikipedia.org/wiki/Tryon%27s_raid;July 5-14, 1779;Connecticut;British victory;;British victory;41.31, -72.9236111111
+Battle of Baton Rouge;https://en.wikipedia.org/wiki/Battle_of_Baton_Rouge_(1779);September 20-21, 1779;West Florida;Patriot-Spanish victory;1779-09-20;;30.45, -91.1333
+Battle of Turtle Gut Inlet;https://en.wikipedia.org/wiki/Battle_of_Turtle_Gut_Inlet;June 29, 1776;New Jersey;Patriot victory;1776-06-29;Patriot victory;38.9583333333, -74.8416666667
+Battle of Guilford Court House;https://en.wikipedia.org/wiki/Battle_of_Guilford_Court_House;March 15, 1781;North Carolina;British victory;1781-03-15;British victory;36.132, -79.844
+Battle of Green Spring;https://en.wikipedia.org/wiki/Battle_of_Green_Spring;July 6, 1781;Virginia;British victory;1781-07-06;British victory;
+Capture of Fort Ticonderoga;https://en.wikipedia.org/wiki/Capture_of_Fort_Ticonderoga;May 10, 1775;New York;Patriot victory: Patriots capture British posts at Ticonderoga and Crown point;1775-05-10;Patriot victory;43.8413888889, -73.3880555556
+Battle of Bunker Hill;https://en.wikipedia.org/wiki/Battle_of_Bunker_Hill;June 17, 1775;Massachusetts;British victory: British drive Patriot army from the Charleston peninsula near Boston but suffer heavy losses.;1775-06-17;British victory;42.3763611111, -71.0607777778
+Battle of Valcour Island;https://en.wikipedia.org/wiki/Battle_of_Valcour_Island;October 11, 1776;New York;British victory: British defeat Patriot naval force on Lake Champlain, but victory comes too late to press the offensive against the Hudson valley.;1776-10-11;British victory;44.6105111111, -73.4303861111
+Battle of Crooked Billet;https://en.wikipedia.org/wiki/Battle_of_Crooked_Billet;May 1, 1778;Pennsylvania;British victory;1778-05-01;British victory;40.171, -75.109
+Battle of the Black River;https://en.wikipedia.org/wiki/Battle_of_the_Black_River;;Guatemala;British victory;;British victory;15.9462, -84.9299
+Battle of Millstone;https://en.wikipedia.org/wiki/Battle_of_Millstone;January 20, 1777;New Jersey;Patriot victory;1777-01-20;Patriot victory;40.5388888889, -74.5933333333
+Battle of Connecticut Farms;https://en.wikipedia.org/wiki/Battle_of_Connecticut_Farms;June 7, 1780;New Jersey;British victory;1780-06-07;British victory;40.6951, -74.2734
+Battle of Pekowee;https://en.wikipedia.org/wiki/Battle_of_Pekowee;August 8, 1780;Quebec;Patriot victory;1780-08-08;Patriot victory;
+Battle of the Rice Boats;https://en.wikipedia.org/wiki/Battle_of_the_Rice_Boats;March 2-3, 1776;Georgia;British victory;1776-03-02;British victory;32.0812666667, -81.0857972222
+Battle of Ridgefield;https://en.wikipedia.org/wiki/Battle_of_Ridgefield;April 27, 1777;Connecticut;British victory;1777-04-27;British victory;41.3052777778, -73.5013888889
+Battle of Kettle Creek;https://en.wikipedia.org/wiki/Battle_of_Kettle_Creek;February 14, 1779;Georgia;Patriot victory;1779-02-14;Patriot victory;33.690796, -82.884563
+Battle of Brier Creek;https://en.wikipedia.org/wiki/Battle_of_Brier_Creek;March 3, 1779;Georgia;British victory;1779-03-03;British victory;32.811631, -81.482829
+Bird's invasion of Kentucky;https://en.wikipedia.org/wiki/Bird%27s_invasion_of_Kentucky;;Virginia;British victory;;British victory;37.6166666667, -83.45
+Huck's Defeat;https://en.wikipedia.org/wiki/Huck%27s_Defeat;July 12, 1780;South Carolina;Patriot victory;1780-07-12;Patriot victory;34.8652277778, -81.1756194444
+Battle of Fishdam Ford;https://en.wikipedia.org/wiki/Battle_of_Fishdam_Ford;November 9, 1780;South Carolina;Patriot victory;1780-11-09;Patriot victory;34.5950638889, -81.4196361111
+Siege of Cuddalore;https://en.wikipedia.org/wiki/Siege_of_Cuddalore;June 7-25, 1783;India;Indecisive, resolved after the Peace treaty;;;11.75, 79.75
+Battle of St. Lucia;https://en.wikipedia.org/wiki/Battle_of_St._Lucia;December 15, 1778;St. Lucia;British victory;1778-12-15;British victory;
+Gnadenhutten massacre;https://en.wikipedia.org/wiki/Gnadenh%C3%BCtten_massacre;March 8, 1782;Quebec;;1782-03-08;;40.3541666667, -81.435
+Second Battle of Trenton;https://en.wikipedia.org/wiki/Second_Battle_of_Trenton;January 2, 1777;New Jersey;Patriot victory;1777-01-02;Patriot victory;40.2216666667, -74.7561111111
+Battle of Hobkirk's Hill;https://en.wikipedia.org/wiki/Battle_of_Hobkirk%27s_Hill;April 25, 1781;South Carolina;British victory;1781-04-25;British victory;34.2744444444, -80.6072222222
+Battle of Machias;https://en.wikipedia.org/wiki/Battle_of_Machias;June 11-12, 1775;Massachusetts;Patriot forces capture the HM schooner Margaretta;1775-06-11;;44.71405, -67.4608611111
+Battle of Trincomalee;https://en.wikipedia.org/wiki/Battle_of_Trincomalee;;Ceylon;French victory;;;8.54910833333, 81.2377166667
+Battle of Little Mountain;https://en.wikipedia.org/wiki/Battle_of_Little_Mountain;March 22, 1782;Virginia;British-Iroquois victory;1782-03-22;;
+Capture of Saint Vincent;https://en.wikipedia.org/wiki/Capture_of_Saint_Vincent;June 16-18, 1779;St. Vincent;French victory;1779-06-16;;13.25, -61.2
+Battle of Cape Spartel;https://en.wikipedia.org/wiki/Battle_of_Cape_Spartel;October 20, 1782;Morocco;Patriot victory;1782-10-20;Patriot victory;35.9257, -5.9109
+Burning of Falmouth;https://en.wikipedia.org/wiki/Burning_of_Falmouth;October 18, 1775;Massachusetts;British burn Falmouth.;1775-10-18;;43.6547222222, -70.2536111111
+Capture of Montserrat;https://en.wikipedia.org/wiki/Capture_of_Montserrat;February 22, 1782;Montserrat;French victory;1782-02-22;;16.75, -62.2
+Battle of Musgrove Mill;https://en.wikipedia.org/wiki/Battle_of_Musgrove_Mill;August 18, 1780;South Carolina;Patriot victory;1780-08-18;Patriot victory;34.5935444444, -81.8524777778
+Capture of the Turks and Caicos Islands;https://en.wikipedia.org/wiki/Capture_of_the_Turks_and_Caicos_Islands;March 9, 1783;Turks and Caicos Islands;French victory;1783-03-09;;21.6666666667, -72.4583333333
+Action of 22 January 1783;https://en.wikipedia.org/wiki/Action_of_22_January_1783;January 22, 1783;Virginia;British victory;1783-01-22;British victory;37.0902388889, -76.1572277778
+Second Battle of Machias;https://en.wikipedia.org/wiki/Battle_of_Machias_(1777);August 13-14, 1777;Massachusetts;British victory;1777-08-13;British victory;44.71405, -67.4608611111
+Battle of Kemp's Landing;https://en.wikipedia.org/wiki/Battle_of_Kemp%27s_Landing;November 14, 1775;Virginia;British victory;1775-11-14;British victory;36.8269444444, -76.1602777778
+Battle of Staten Island;https://en.wikipedia.org/wiki/Battle_of_Staten_Island;August 22, 1777;New York;British victory;1777-08-22;British victory;40.5762805556, -74.1448388889
+Carleton's Raid;https://en.wikipedia.org/wiki/Carleton%27s_Raid_(1778);;Vermont;British victory;;British victory;
+Battle of Blackstock's Farm;https://en.wikipedia.org/wiki/Battle_of_Blackstock%27s_Farm;November 20, 1780;South Carolina;Patriot victory;1780-11-20;Patriot victory;34.6793, -81.8124
+Great Siege of Gibraltar;https://en.wikipedia.org/wiki/Great_Siege_of_Gibraltar;;Gibraltar;British victory;;British victory;36.1397, -5.3551
+Battle of Oriskany;https://en.wikipedia.org/wiki/Battle_of_Oriskany;August 6, 1777;New York;British victory;1777-08-06;British victory;43.1766666667, -75.37
+Battle of Gloucester;https://en.wikipedia.org/wiki/Battle_of_Gloucester_(1775);August 8, 1775;Massachusetts;Patriot victory;1775-08-08;Patriot victory;42.6064222222, -70.6637194444
+Battle of Punk Hill;https://en.wikipedia.org/wiki/Battle_of_Punk_Hill;March 8, 1777;New Jersey;Patriot victory;1777-03-08;Patriot victory;40.523, -74.357
+Battle of The Cedars;https://en.wikipedia.org/wiki/Battle_of_The_Cedars;May 18-27, 1776;Quebec;British victory;1776-05-18;British victory;45.30993, -74.035336
+Battle of Trenton;https://en.wikipedia.org/wiki/Battle_of_Trenton;December 26, 1776;New Jersey;Patriot victory: Patriots capture Hessian detachment at Trenton.;1776-12-26;Patriot victory;40.218, -74.755
+Battle of Springfield;https://en.wikipedia.org/wiki/Battle_of_Springfield_(1780);June 23, 1780;New Jersey;Patriot victory;1780-06-23;Patriot victory;40.70912, -74.2997
+Action of 18 October 1782;https://en.wikipedia.org/wiki/Action_of_18_October_1782;October 18, 1782;Hispaniola;British victory;1782-10-18;British victory;19.1833333333, -69.3166666667
+Battle of Newtown;https://en.wikipedia.org/wiki/Battle_of_Newtown;August 29, 1779;Indian Reserve;Patriot victory;1779-08-29;Patriot victory;42.045278, -76.733333
+Battle of Klock's Field;https://en.wikipedia.org/wiki/Battle_of_Klock%27s_Field;October 19, 1780;New York;Patriot victory;1780-10-19;Patriot victory;42.9994444444, -74.7083333333
+Siege of Fort Ticonderoga;https://en.wikipedia.org/wiki/Siege_of_Fort_Ticonderoga_(1777);July 5-6, 1777;New York;British victory;1777-07-05;British victory;43.8413888889, -73.3880555556
+Battle of Fort Motte;https://en.wikipedia.org/wiki/Battle_of_Fort_Motte;May 8-12, 1781;South Carolina;Patriot victory;;Patriot victory;33.76084, -80.66965
+Battle of Fort Washington;https://en.wikipedia.org/wiki/Battle_of_Fort_Washington;November 16, 1776;New York;British victory: British capture 3,000 Patriots on Manhattan in one of the most devastating Patriot defeats of the war.;1776-11-16;British victory;40.853, -73.938
+Battle of Matson's Ford;https://en.wikipedia.org/wiki/Battle_of_Matson%27s_Ford;December 11, 1777;Pennsylvania;British victory;1777-12-11;British victory;40.07128, -75.309935
+North Channel Naval Duel;https://en.wikipedia.org/wiki/North_Channel_Naval_Duel;April 24, 1778;Great Britain;Patriot victory;1778-04-24;Patriot victory;54.7241666667, -5.45
+Battle of Kings Mountain;https://en.wikipedia.org/wiki/Battle_of_Kings_Mountain;October 7, 1780;South Carolina;Patriot victory: halts first British invasion of North Carolina.;1780-10-07;Patriot victory;35.11935, -81.39359
+Battle of Monmouth;https://en.wikipedia.org/wiki/Battle_of_Monmouth;June 28, 1778;New Jersey;Draw: British break off engagement and continue retreat to New York.;1778-06-28;;40.2588888889, -74.2752777778
+Burning of Norfolk;https://en.wikipedia.org/wiki/Burning_of_Norfolk;January 1, 1776;Virginia;British bombard Norfolk and Patriots destroy what they see as a loyalist stronghold.;1776-01-01;;36.91, -76.2069444444
+Battle of Fort Lee;https://en.wikipedia.org/wiki/Battle_of_Fort_Lee;November 20, 1776;New Jersey;British victory: Patriots begin general retreat;1776-11-20;British victory;40.8502777778, -73.9630555556
+Action of 20â€“21 April 1782;https://en.wikipedia.org/wiki/Action_of_20%E2%80%9321_April_1782;April 20-21, 1782;Bay of Biscay;British victory;1782-04-20;British victory;
+Battle of St. Louis;https://en.wikipedia.org/wiki/Battle_of_St._Louis;May 25, 1780;Louisiana;Patriot-Spanish victory;1780-05-25;;38.6242777778, -90.1892222222
+Action of 30 May 1781;https://en.wikipedia.org/wiki/Action_of_30_May_1781;May 30, 1781;Barbary Coast;British victory;1781-05-30;British victory;
+Battle of Dogger Bank;https://en.wikipedia.org/wiki/Battle_of_Dogger_Bank_(1781);August 5, 1781;North Sea;British victory;1781-08-05;British victory;54.724, 2.769
+Battle of Monck's Corner;https://en.wikipedia.org/wiki/Battle_of_Monck%27s_Corner;April 14, 1780;South Carolina;British victory;1780-04-14;British victory;33.1966666667, -80.0066666667
+Second Battle of Martinique;https://en.wikipedia.org/wiki/Battle_of_Martinique_(1780);April 17, 1780;Martinique;Patriot victory;1780-04-17;Patriot victory;
+Siege of Fort Watson;https://en.wikipedia.org/wiki/Siege_of_Fort_Watson;April 15-23, 1781;South Carolina;Patriot victory;1781-04-15;Patriot victory;33.53896, -80.43783
+Hudson Bay Expedition;https://en.wikipedia.org/wiki/Hudson_Bay_Expedition;August 8, 1782;Rupert's Land;Franco-Patriot victory;1782-08-08;Patriot victory;58.7971583333, -94.2134277778
+Battle of Great Bridge;https://en.wikipedia.org/wiki/Battle_of_Great_Bridge;December 9, 1775;Virginia;Patriot victory: Lord Dunmore's loyalist force is defeated.;1775-12-09;Patriot victory;36.7197222222, -76.2386111111
+Battle of Saint-Pierre;https://en.wikipedia.org/wiki/Battle_of_Saint-Pierre;March 25, 1776;Quebec;Patriot victory;1776-03-25;Patriot victory;46.92, -70.6294
+Battle of Chestnut Neck;https://en.wikipedia.org/wiki/Battle_of_Chestnut_Neck;October 6, 1778;New Jersey;British victory;1778-10-06;British victory;39.5446, -74.4614
+La Balme's Defeat;https://en.wikipedia.org/wiki/La_Balme%27s_Defeat;November 5, 1780;Quebec;British-Iroquois victory;1780-11-05;;
+Siege of Fort Stanwix;https://en.wikipedia.org/wiki/Siege_of_Fort_Stanwix;August 2-23, 1777;New York;Patriot victory: British fail to take Fort Stanwix;1777-08-23;Patriot victory;43.2105555556, -75.45525
+Battle of Red Bank;https://en.wikipedia.org/wiki/Battle_of_Red_Bank;October 22, 1777;New Jersey;Patriot victory;1777-10-22;Patriot victory;39.871371, -75.18941
+Battle of Cobleskill;https://en.wikipedia.org/wiki/Battle_of_Cobleskill;May 30, 1778;New York;British-Iroquois victory;1778-05-30;;42.6791666667, -74.4855555556
+Wyoming Massacre;https://en.wikipedia.org/wiki/Wyoming_Massacre;July 3, 1778;Pennsylvania;British-Iroquois victory;1778-07-03;;41.25, -75.905
+Siege of Bryan Station;https://en.wikipedia.org/wiki/Siege_of_Bryan_Station;August 15-17, 1782;Virginia;Patriot victory;1782-08-15;Patriot victory;38.0758666667, -84.4152916667
+Battle of Sullivan's Island;https://en.wikipedia.org/wiki/Battle_of_Sullivan%27s_Island;June 28, 1776;South Carolina;Patriot victory: British attack on Charleston is repulsed.;1776-06-28;Patriot victory;32.759373, -79.857748
+Battle of Newport;https://en.wikipedia.org/wiki/Battle_of_Rhode_Island;August 29, 1778;Rhode Island;British victory;1778-08-29;British victory;41.596, -71.263
+Invasion of Dominica;https://en.wikipedia.org/wiki/Invasion_of_Dominica;September 7, 1778;Dominica;French victory;1778-09-07;;15.4166666667, -61.3333333333
+Battle of the Mona Passage;https://en.wikipedia.org/wiki/Battle_of_the_Mona_Passage;April 19, 1782;Mona passage;British victory;1782-04-19;British victory;18.5, -68.0
+Battle of Haw River;https://en.wikipedia.org/wiki/Battle_of_Haw_River;February 25, 1781;North Carolina;Patriot victory;1781-02-25;Patriot victory;36.04, -79.4
+Battle of Trois-RiviÃ¨res;https://en.wikipedia.org/wiki/Battle_of_Trois-Rivi%C3%A8res;June 8, 1776;Quebec;British victory: Patriots forced to evacuate Quebec;1776-06-08;British victory;46.35, -72.55
+Cherry Valley Massacre;https://en.wikipedia.org/wiki/Cherry_Valley_Massacre;November 11, 1778;New York;British-Iroquois victory;1778-11-11;;42.8088888889, -74.7372222222
+Battle of Minisink;https://en.wikipedia.org/wiki/Battle_of_Minisink;July 22, 1779;New York;British-Iroquois victory;1779-07-22;;41.4888888889, -74.9708333333
+Battle of Hubbardton;https://en.wikipedia.org/wiki/Battle_of_Hubbardton;July 7, 1777;New York;British victory;1777-07-07;British victory;43.7, -73.1333333333
+Capture of Grenada;https://en.wikipedia.org/wiki/Capture_of_Grenada;July 2, 1779;Grenada;French victory;1779-07-02;;12.05, -61.75
+Battle of Hanging Rock;https://en.wikipedia.org/wiki/Battle_of_Hanging_Rock;August 6, 1780;South Carolina;Patriot victory;1780-08-06;Patriot victory;34.5656666667, -80.6617916667
+Battle of San Fernando de Omoa;https://en.wikipedia.org/wiki/Battle_of_San_Fernando_de_Omoa;;Guatemala;British victory;;British victory;15.7738888889, -88.0363888889
+Battle of White Plains;https://en.wikipedia.org/wiki/Battle_of_White_Plains;October 28, 1776;New York;British victory;1776-10-28;British victory;41.04, -73.7786111111
+Battle of Paulus Hook;https://en.wikipedia.org/wiki/Battle_of_Paulus_Hook;August 19, 1779;New Jersey;Patriot victory;1779-08-19;Patriot victory;40.70757, -74.03961
+Battle of Ramsour's Mill;https://en.wikipedia.org/wiki/Battle_of_Ramsour%27s_Mill;June 20, 1780;North Carolina;Patriot victory;1780-06-20;Patriot victory;35.4784, -81.2591
+Capture of the Bahamas;https://en.wikipedia.org/wiki/Capture_of_the_Bahamas_(1782);May 6, 1782;Bahamas;Patriot-Spanish victory;1782-05-06;;25.0599555556, -77.3450166667
+Battle of Forts Clinton and Montgomery;https://en.wikipedia.org/wiki/Battle_of_Forts_Clinton_and_Montgomery;October 6, 1777;New York;British victory;1777-10-06;British victory;41.3228638889, -73.9897222222
+Battle of Black Mingo;https://en.wikipedia.org/wiki/Battle_of_Black_Mingo;August 28, 1780;South Carolina;Patriot victory;1780-08-28;Patriot victory;33.6166666667, -79.4333333333
+Battle of Delaware Bay;https://en.wikipedia.org/wiki/Battle_of_Delaware_Bay;April 8, 1782;New Jersey;Patriot victory;1782-04-08;Patriot victory;39.0831694444, -74.9665805556
+Penobscot Expedition;https://en.wikipedia.org/wiki/Penobscot_Expedition;;Massachusetts;British victory;;British victory;44.391, -68.8056
+Battle of Mobile;https://en.wikipedia.org/wiki/Battle_of_Mobile_(1781);January 7, 1781;West Florida;Patriot-Spanish victory;1781-01-07;;30.66405, -88.002075
+Battle of Fort Royal;https://en.wikipedia.org/wiki/Battle_of_Fort_Royal;April 29, 1781;Martinique;French victory;1781-04-29;;14.6, -61.25
+Battle of Stony Point;https://en.wikipedia.org/wiki/Battle_of_Stony_Point;July 16, 1779;New York;Patriot victory;1779-07-16;Patriot victory;41.241, -73.974
+Battle of Brandywine;https://en.wikipedia.org/wiki/Battle_of_Brandywine;September 11, 1777;Pennsylvania;British victory;1777-09-11;British victory;39.8719444444, -75.59
+Siege of Fort Vincennes;https://en.wikipedia.org/wiki/Siege_of_Fort_Vincennes;February 23-25, 1779;Quebec;Patriot victory;1779-02-23;Patriot victory;38.6783333333, -87.5161111111
+Battle of Rocky Mount;https://en.wikipedia.org/wiki/Battle_of_Rocky_Mount;August 1, 1780;South Carolina;Loyalist victory;1780-08-01;;34.5398638889, -80.8759416667
+Capture of Sint Eustatius;https://en.wikipedia.org/wiki/Capture_of_Sint_Eustatius;February 3, 1781;Sint Eustatius;British victory;1781-02-03;British victory;17.4833333333, -62.9833333333
+Battle of Fort St. George;https://en.wikipedia.org/wiki/Battle_of_Fort_St._George;November 23, 1780;New York;Patriot victory;1780-11-23;Patriot victory;40.9644444444, -73.0438888889
+Action of 1 May 1781;https://en.wikipedia.org/wiki/Action_of_1_May_1781;May 1, 1781;France;British victory;1781-05-01;British victory;
+Action of 12 December 1782;https://en.wikipedia.org/wiki/Action_of_12_December_1782;December 12, 1782;Spain;British victory;1782-12-12;British victory;
+Battle of Quebec;https://en.wikipedia.org/wiki/Battle_of_Quebec_(1775);December 31, 1775;Quebec;British victory: British repulse Patriot assault on Quebec city.;1775-12-31;British victory;46.8151, -71.2023055556
+Battle of Waxhaws;https://en.wikipedia.org/wiki/Battle_of_Waxhaws;May 29, 1780;South Carolina;British victory;1780-05-29;British victory;34.7419527778, -80.6257916667
+Battle of Camden;https://en.wikipedia.org/wiki/Battle_of_Camden;August 16, 1780;South Carolina;British victory;1780-08-16;British victory;34.3645527778, -80.6139
+Capture of Trincomalee;https://en.wikipedia.org/wiki/Capture_of_Trincomalee;January 11, 1782;Ceylon;British victory;1782-01-11;British victory;8.54910833333, 81.2377166667
+Battle of Fishing Creek;https://en.wikipedia.org/wiki/Battle_of_Fishing_Creek;August 18, 1780;South Carolina;British victory;1780-08-18;British victory;34.635, -80.9058333333
+Siege of Negapatam;https://en.wikipedia.org/wiki/Siege_of_Negapatam;;India;British victory;;British victory;10.7763138889, 79.8397055556
+Battle of Germantown;https://en.wikipedia.org/wiki/Battle_of_Germantown;October 4, 1777;Pennsylvania;British victory;1777-10-04;British victory;40.0238, -75.1597
+Battle of Barbados;https://en.wikipedia.org/wiki/Battle_of_Barbados;March 7, 1778;Barbados;British victory;1778-03-07;British victory;
+Battle of Wetzell's Mill;https://en.wikipedia.org/wiki/Battle_of_Wetzell%27s_Mill;March 6, 1781;North Carolina;British victory;1781-03-06;British victory;36.08, -79.79
+Battle of Negapatam;https://en.wikipedia.org/wiki/Battle_of_Negapatam_(1782);July 6, 1782;Ceylon;British victory;1782-07-06;British victory;10.778, 79.8661416667
+Gunpowder Incident;https://en.wikipedia.org/wiki/Gunpowder_Incident;April 20, 1775;Virginia;Virginia governor Lord Dunmore removes powder to a Royal Navy ship, standoff is resolved without violence.;1775-04-20;;37.2708333333, -76.7069444444
+Naval battle of Louisbourg;https://en.wikipedia.org/wiki/Naval_battle_of_Louisbourg;July 21, 1781;Nova Scotia;Franco-Patriot victory;1781-07-21;Patriot victory;
+Action of 6 December 1782;https://en.wikipedia.org/wiki/Action_of_6_December_1782;December 6, 1782;Martinique;British victory;1782-12-06;British victory;
+Battle of Thomas Creek;https://en.wikipedia.org/wiki/Battle_of_Thomas_Creek;May 17, 1777;East Florida;British victory;1777-05-17;British victory;30.50565, -81.79164
+Battle of Quinton's Bridge;https://en.wikipedia.org/wiki/Battle_of_Quinton%27s_Bridge;March 18, 1778;New Jersey;British victory;1778-03-18;British victory;39.548485, -75.414366
+Battle of Cowan's Ford;https://en.wikipedia.org/wiki/Battle_of_Cowan%27s_Ford;February 1, 1781;North Carolina;British victory;1781-02-01;British victory;35.4283, -80.9519
+Siege of Fort Henry;https://en.wikipedia.org/wiki/Siege_of_Fort_Henry_(1782);September 11-13, 1782;Virginia;Patriot victory;1782-09-11;Patriot victory;40.0638888889, -80.725
+Battle of Lindley's Fort;https://en.wikipedia.org/wiki/Battle_of_Lindley%27s_Fort;July 15, 1776;South Carolina;Patriot victory: Native Americans attack repulsed.;1776-07-15;Patriot victory;34.45965, -82.118268
+Battle of Grenada;https://en.wikipedia.org/wiki/Battle_of_Grenada;July 6, 1779;Grenada;French victory;1779-07-06;;12.05, -61.75
+Battle of RoatÃ¡n;https://en.wikipedia.org/wiki/Battle_of_Roat%C3%A1n;March 16, 1782;Guatemala;Patriot-Spanish victory;1782-03-16;;16.3834305556, -86.4178333333
+Action of 8 January 1780;https://en.wikipedia.org/wiki/Action_of_8_January_1780;January 8, 1780;Spain;British victory;1780-01-08;British victory;43.0, -20.25
+Battle of Lenud's Ferry;https://en.wikipedia.org/wiki/Battle_of_Lenud%27s_Ferry;May 6, 1780;South Carolina;British victory;1780-05-06;British victory;33.3047083333, -79.6750833333
+Battle of Blandford;https://en.wikipedia.org/wiki/Battle_of_Blandford;April 25, 1781;Virginia;British victory;1781-04-25;British victory;37.23438, -77.3939
+Battle of Saint Kitts;https://en.wikipedia.org/wiki/Battle_of_Saint_Kitts;January 25-26, 1782;St. Christopher;British victory;1782-01-25;British victory;17.15, -62.5833333333
+Action of 11 November 1779;https://en.wikipedia.org/wiki/Action_of_11_November_1779;November 11, 1779;Portugal;British victory;1779-11-11;British victory;
+Battle of Eutaw Springs;https://en.wikipedia.org/wiki/Battle_of_Eutaw_Springs;September 8, 1781;South Carolina;British victory;1781-09-08;British victory;33.40728, -80.29875
+Battle of Providien;https://en.wikipedia.org/wiki/Battle_of_Providien;April 12, 1782;Ceylon;French victory;1782-04-12;;8.25498333333, 81.5130611111
+Naval battle off Halifax;https://en.wikipedia.org/wiki/Naval_battle_off_Halifax;May 28-29, 1782;Nova Scotia;British victory;1782-05-28;British victory;44.3, -63.4
+Battle of Moore's Creek Bridge;https://en.wikipedia.org/wiki/Battle_of_Moore%27s_Creek_Bridge;February 27, 1776;North Carolina;Patriot victory: loyalist force of Regulators and Highlanders defeated.;1776-02-27;Patriot victory;34.4575, -78.1097222222
+Battle of Long Island;https://en.wikipedia.org/wiki/Battle_of_Long_Island;August 27, 1776;New York;British victory: in the largest battle of the war the Patriot army is outflanked and routed on Long Island but later manages to evacuate to Manhattan.;1776-08-27;British victory;34.4575, -78.1097222222
+Forage War;https://en.wikipedia.org/wiki/Forage_War;;New Jersey;Patriots harass remaining British forces in New Jersey.;;;38.4284078333, -83.9946472222
+Battle of Gloucester;https://en.wikipedia.org/wiki/Battle_of_Gloucester_(1777);November 25, 1777;New Jersey;Patriot victory;1777-11-25;Patriot victory;39.87206, -75.18871
+Battle of Mobley's Meeting House;https://en.wikipedia.org/wiki/Battle_of_Mobley%27s_Meeting_House;June 10-12, 1780;South Carolina;Patriot victory;1780-06-10;Patriot victory;34.4533333333, -81.2725
+Battle of Charlotte;https://en.wikipedia.org/wiki/Battle_of_Charlotte;September 26, 1780;North Carolina;British victory;1780-09-26;British victory;35.2269444444, -80.8433333333
+Royalton Raid;https://en.wikipedia.org/wiki/Royalton_Raid;October 16, 1780;Vermont;British victory;1780-10-16;British victory;
+Siege of Fort St. Jean;https://en.wikipedia.org/wiki/Siege_of_Fort_St._Jean;September 17;Quebec;Patriot victory: Patriots capture British force and subsequently overrun Montreal and much of Quebec.;1775-09-17;Patriot victory;45.3166666667, -73.2666666667
+Battle of Block Island;https://en.wikipedia.org/wiki/Battle_of_Block_Island;April 6, 1776;Rhode Island;British victory;1776-04-06;British victory;40.934888, -71.018829
+Battle of Bound Brook;https://en.wikipedia.org/wiki/Battle_of_Bound_Brook;April 13, 1777;New Jersey;British victory;1777-04-13;British victory;40.5589, -74.5278
+Battle of Chillicothe;https://en.wikipedia.org/wiki/Battle_of_Chillicothe;;Quebec;Patriot victory;;Patriot victory;39.7305555556, -83.9377777778
+Siege of Savage's Old Fields;https://en.wikipedia.org/wiki/Siege_of_Savage%27s_Old_Fields;November 19-21, 1775;South Carolina;Patriot victory: Patriots defeat loyalist force.;1775-11-19;Patriot victory;34.1469444444, -82.0244444444
+Battle of Fort Cumberland;https://en.wikipedia.org/wiki/Battle_of_Fort_Cumberland;November 10-29, 1776;Nova Scotia;British victory;1776-11-10;British victory;45.8655083333, -64.2907916667
+Battle of Fort Ann;https://en.wikipedia.org/wiki/Battle_of_Fort_Ann;July 8, 1777;New York;British victory;1777-07-08;British victory;43.4261194444, -73.4805111111
+Battle of Cooch's Bridge;https://en.wikipedia.org/wiki/Battle_of_Cooch%27s_Bridge;September 3, 1777;Delaware;British victory;1777-09-03;British victory;39.639722, -75.726667
+Battle of Paoli;https://en.wikipedia.org/wiki/Battle_of_Paoli;September 21, 1777;Pennsylvania;British victory;1777-09-21;British victory;40.0297222222, -75.5183333333
+Raid on Unadilla and Onaquaga;https://en.wikipedia.org/wiki/Raid_on_Unadilla_and_Onaquaga;October 2-16, 1778;Indian Reserve;Patriot victory;1778-10-26;Patriot victory;
+Chesapeake raid;https://en.wikipedia.org/wiki/Chesapeake_raid;May 10-24, 1779;Virginia;British victory;1779-05-10;British victory;38.05, -76.1833333333
+Battle of Harlem Heights;https://en.wikipedia.org/wiki/Battle_of_Harlem_Heights;September 16, 1776;New York;Patriot victory: Patriots repulse British attack on Manhattan;1776-09-16;Patriot victory;40.809, -73.956
+Action of 9 August 1780;https://en.wikipedia.org/wiki/Action_of_9_August_1780;August 9, 1780;Atlantic;Spanish victory;1780-08-09;;35.8336111111, -13.2333333333
+Capture of the Bahamas;https://en.wikipedia.org/wiki/Capture_of_the_Bahamas_(1783);April 14-18, 1783;Bahamas;British victory;1783-04-14;British victory;25.0666666667, -77.3333333333
+Battle of Nassau;https://en.wikipedia.org/wiki/Battle_of_Nassau;March 3-4, 1776;Bahamas;Patriots raid against the Bahamas to obtain supplies.;1776-03-03;;25.06, -77.345
+Battle of Iron Works Hill;https://en.wikipedia.org/wiki/Battle_of_Iron_Works_Hill;December 22-23, 1776;New Jersey;British victory;1776-12-22;British victory;39.995, -74.7869444444
+Battle of Flamborough Head;https://en.wikipedia.org/wiki/Battle_of_Flamborough_Head;September 23, 1779;Great Britain;Patriot victory;1779-09-23;Patriot victory;54.1625, -0.119444444444
+Battle of Sadras;https://en.wikipedia.org/wiki/Battle_of_Sadras;February 17, 1782;India;French victory;1782-02-17;;12.5233972222, 80.17685
+Battle of Short Hills;https://en.wikipedia.org/wiki/Battle_of_Short_Hills;June 26, 1777;New Jersey;British victory;1777-06-26;British victory;40.75, -74.332
+Siege of Fort Mifflin;https://en.wikipedia.org/wiki/Siege_of_Fort_Mifflin;September 26;Pennsylvania;British victory;2026-09-01;British victory;39.87494, -75.21319
+Attack on German Flatts;https://en.wikipedia.org/wiki/Attack_on_German_Flatts_(1778);September 17, 1778;New York;British-Iroquois victory;;;43.0261111111, -74.9902777778
+Battle of Stono Ferry;https://en.wikipedia.org/wiki/Battle_of_Stono_Ferry;June 20, 1779;South Carolina;British victory;1779-06-20;British victory;32.7570361111, -80.1339333333
+Battle of Bull's Ferry;https://en.wikipedia.org/wiki/Battle_of_Bull%27s_Ferry;July 20-21, 1780;New Jersey;Loyalist victory;1780-07-20;;40.789, -74.0
+Battle of Blue Licks;https://en.wikipedia.org/wiki/Battle_of_Blue_Licks;August 19, 1782;Virginia;British-Iroquois victory;1782-08-19;;38.4284078333, -83.9946472222
+Siege of Boston;https://en.wikipedia.org/wiki/Siege_of_Boston;April 19, 1775;Massachusetts;Patriot victory: British eventually evacuate Boston after Patriots fortify Dorchester heights.;1775-04-19;Patriot victory;42.3632361111, -71.0578527778
+Battle of Princeton;https://en.wikipedia.org/wiki/Battle_of_Princeton;January 3, 1777;New Jersey;Patriot victory: Patriots defeat a small British force, the British decide to evacuate New Jersey.;1777-01-03;Patriot victory;40.3277777778, -74.6733333333
+Battle of Barren Hill;https://en.wikipedia.org/wiki/Battle_of_Barren_Hill;May 20, 1778;Pennsylvania;Indecisive;1778-05-20;;40.08416, -75.25076
+Siege of Pensacola;https://en.wikipedia.org/wiki/Siege_of_Pensacola;;West Florida;Patriot-Spanish victory;;;30.3477777778, -87.2972222222
+Siege of Ninety-Six;https://en.wikipedia.org/wiki/Siege_of_Ninety-Six;;South Carolina;British victory;;British victory;34.1469444444, -82.0244444444
+Powder Alarm;https://en.wikipedia.org/wiki/Powder_Alarm;September 1, 1774;Massachusetts;British soldiers remove military supplies;1774-09-01;;42.4002, -71.1161333333
+Baylor Massacre;https://en.wikipedia.org/wiki/Baylor_Massacre;September 27, 1778;New Jersey;British victory;1778-09-27;British victory;41.012896, -74.008144
+Battle of Beaufort;https://en.wikipedia.org/wiki/Battle_of_Beaufort;February 3, 1779;South Carolina;Patriot victory;1779-02-03;Patriot victory;32.5002777778, -80.7436111111
+Boyd and Parker ambush;https://en.wikipedia.org/wiki/Boyd_and_Parker_ambush;September 13, 1779;Indian Reserve;British-Iroquois victory;1779-09-13;;42.717064, -77.727602
+Battle of Chelsea Creek;https://en.wikipedia.org/wiki/Battle_of_Chelsea_Creek;May 27-28, 1775;Massachusetts;Patriots victory: Patriots capture British ship Diana;1775-05-27;Patriot victory;42.3818805556, -71.0320194444
+Meigs Raid;https://en.wikipedia.org/wiki/Meigs_Raid;May 24, 1777;New York;Patriot victory;1777-05-24;Patriot victory;40.9966666667, -72.2922222222
+Battle of Fort Slongo;https://en.wikipedia.org/wiki/Battle_of_Fort_Slongo;October 3, 1781;New York;Patriot victory;1781-10-03;Patriot victory;40.9125, -73.3008333333
+First Battle of Ushant;https://en.wikipedia.org/wiki/Battle_of_Ushant_(1778);July 27, 1778;Bay of Biscay;British victory;1778-07-27;British victory;48.56025, -7.38281388889
+Battle of Colson's Mill;https://en.wikipedia.org/wiki/Battle_of_Colson%27s_Mill;July 21, 1780;North Carolina;Patriot victory;1780-07-21;Patriot victory;35.1543722222, -80.084925
+Battle of the Saintes;https://en.wikipedia.org/wiki/Battle_of_the_Saintes;April 9-12, 1782;Dominica;British victory;;British victory;15.7833333333, -61.6
+Battle of Bennington;https://en.wikipedia.org/wiki/Battle_of_Bennington;August 16, 1777;New York;Patriot victory;1777-08-16;Patriot victory;42.9386111111, -73.3044444444
+Capture of St. Lucia;https://en.wikipedia.org/wiki/Capture_of_St._Lucia;December 18-28, 1778;St. Lucia;British victory;1778-12-18;British victory;13.8833333333, -60.9666666667
+Battle of Fort Charlotte;https://en.wikipedia.org/wiki/Battle_of_Fort_Charlotte;March 2-14, 1780;West Florida;Patriot-Spanish victory;1780-03-24;;30.6861194444, -88.0415055556
+Battle of Johnstown;https://en.wikipedia.org/wiki/Battle_of_Johnstown;October 25, 1781;New York;Patriot victory;1781-10-25;Patriot victory;43.0072222222, -74.3722222222
+Long Run Massacre;https://en.wikipedia.org/wiki/Long_Run_Massacre;September 13, 1781;Virginia;British-Iroquois victory;1781-09-13;;38.1823388889, -85.4870222222
+Battle of Cape St. Vincent;https://en.wikipedia.org/wiki/Battle_of_Cape_St._Vincent_(1780);January 16, 1780;Portugal;British victory;1780-01-16;British victory;36.8180555556, -8.56361111111
+Invasion of Tobago;https://en.wikipedia.org/wiki/Invasion_of_Tobago;;Tobago;French victory;;;
+Battle of Porto Praya;https://en.wikipedia.org/wiki/Battle_of_Porto_Praya;April 15, 1781;Cape Verde;Draw;1781-04-15;;14.9072972222, -23.5049055556
+Battle of Spencer's Ordinary;https://en.wikipedia.org/wiki/Battle_of_Spencer%27s_Ordinary;June 26, 1781;Virginia;British victory;1781-06-26;British victory;37.319479, -76.798139
+Battle of Lindley's Mill;https://en.wikipedia.org/wiki/Battle_of_Lindley%27s_Mill;September 13, 1781;North Carolina;Patriot victory;1781-09-13;Patriot victory;35.889711, -79.347188
+Battle of Lake Pontchartrain;https://en.wikipedia.org/wiki/Battle_of_Lake_Pontchartrain;September 10, 1779;West Florida;Patriot victory;1779-09-10;Patriot victory;30.1888888889, -90.1013888889
+Battle of Arkansas Post;https://en.wikipedia.org/wiki/Battle_of_Arkansas_Post_(American_Revolutionary_War);April 17, 1783;Louisiana;Patriot-Spanish victory;1783-04-17;;34.021, -91.349
+Battle of Setauket;https://en.wikipedia.org/wiki/Battle_of_Setauket;August 22, 1777;New York;British victory;1777-08-22;British victory;40.9458333333, -73.1113888889
+Ambush of Geary;https://en.wikipedia.org/wiki/Ambush_of_Geary;December 14, 1776;New Jersey;Patriot victory;1776-12-14;Patriot victory;40.4311111111, -74.8608333333
+Siege of Charleston;https://en.wikipedia.org/wiki/Siege_of_Charleston;;South Carolina;British victory: British recapture South Carolina following the battle.;;British victory;32.7942, -79.9420166667
+Battle of the Combahee River;https://en.wikipedia.org/wiki/Battle_of_the_Combahee_River;August 26, 1782;South Carolina;British victory;1782-08-26;British victory;32.5825, -80.5733333333
+Battle of Wahab's Plantation;https://en.wikipedia.org/wiki/Battle_of_Wahab%27s_Plantation;September 20, 1780;South Carolina;Patriot victory;1780-09-20;Patriot victory;34.86084, -80.76265
+Landing at Kip's Bay;https://en.wikipedia.org/wiki/Landing_at_Kip%27s_Bay;September 15, 1776;New York;British victory: British capture New York City;1776-09-15;British victory;40.7363305556, -73.9746388889
+Battle of Cuddalore;https://en.wikipedia.org/wiki/Battle_of_Cuddalore_(1783);June 20, 1783;India;French victory;1783-06-20;;11.75, 79.75
+Grey's raid;https://en.wikipedia.org/wiki/Grey%27s_raid;September 5-17, 1778;Massachusetts;British victory;;British victory;41.6361111111, -70.9347222222
+Invasion of Minorca;https://en.wikipedia.org/wiki/Invasion_of_Minorca,_1781;;Minorca;Franco-Spanish victory;;;39.9666666667, 4.08333333333
+Snow Campaign;https://en.wikipedia.org/wiki/Snow_Campaign;December 1775;South Carolina;Patriot campaign against loyalists in South Carolina.;1775-12-01;;
+Battle of the Clouds;https://en.wikipedia.org/wiki/Battle_of_the_Clouds;September 16, 1777;Pennsylvania;Battle called off due to rain;1777-09-16;;40.045341, -75.573084
+Siege of Savannah;https://en.wikipedia.org/wiki/Siege_of_Savannah;;Georgia;British victory;;British victory;32.0508333333, -81.1038888889
+San Juan Expedition;https://en.wikipedia.org/wiki/San_Juan_Expedition_(1780);;Guatemala;Patriot-Spanish victory;;;11.0191666667, -84.3963888889
+First Battle of Martinique;https://en.wikipedia.org/wiki/Battle_of_Martinique_(1779);December 18, 1779;Martinique;British victory;1779-12-18;British victory;14.5833333333, -61.15
+Francisco's Fight;https://en.wikipedia.org/wiki/Francisco%27s_Fight;;Virginia;Patriot victory;;Patriot victory;37.14, -78.05
+Siege of Pondicherry;https://en.wikipedia.org/wiki/Siege_of_Pondicherry_(1778);;India;British victory;;British victory;11.9340361111, 79.8338694444
+Siege of Brimstone Hill;https://en.wikipedia.org/wiki/Siege_of_Brimstone_Hill;;St. Christopher;Franco-Patriot victory;;Patriot victory;17.15, -62.5833333333
+Battle of Cape Henry;https://en.wikipedia.org/wiki/Battle_of_Cape_Henry;March 16, 1781;Virginia;British victory;1781-03-16;British victory;37.15, -75.152
+Battle of Alligator Bridge;https://en.wikipedia.org/wiki/Battle_of_Alligator_Bridge;June 30, 1778;East Florida;British victory;1778-06-30;British victory;
+Raid on Lunenburg;https://en.wikipedia.org/wiki/Raid_on_Lunenburg,_Nova_Scotia_(1782);July 1, 1782;Nova Scotia;Patriot victory;1782-07-01;Patriot victory;44.3833333333, -64.3166666667
+Battle of the Chesapeake;https://en.wikipedia.org/wiki/Battle_of_the_Chesapeake;September 5, 1781;Virginia;French victory;1781-09-05;;36.9675, -75.5391666667
+Battle of Wambaw;https://en.wikipedia.org/wiki/Battle_of_Wambaw;February 24, 1782;South Carolina;British victory;1782-02-24;British victory;33.2, -79.95
+Battle of Bemis Heights;https://en.wikipedia.org/wiki/Battles_of_Saratoga;October 7, 1777;New York;Patriot victory: Second of the two Battles of Saratoga, British under Burgoyne driven back and forced to surrender 10 days later.;1777-10-07;Patriot victory;42.9988888889, -73.6375
+Little Egg Harbor massacre;https://en.wikipedia.org/wiki/Little_Egg_Harbor_massacre;October 16, 1778;New Jersey;British victory;1778-10-16;British victory;39.549, -74.375
+Battle of Young's House;https://en.wikipedia.org/wiki/Battle_of_Young%27s_House;February 3, 1780;New York;British victory;1780-02-03;British victory;41.1216666667, -73.7769444444
+Action of 16 March 1782;https://en.wikipedia.org/wiki/Action_of_16_March_1782;March 16, 1782;Strait of Gibraltar;British victory;1782-03-16;British victory;35.8666666667, -5.96666666667
+Action of 14 September 1779;https://en.wikipedia.org/wiki/Action_of_14_September_1779;September 14, 1779;Azores;British victory;1779-09-14;British victory;
+Battle of Jersey;https://en.wikipedia.org/wiki/Battle_of_Jersey;January 6, 1781;Jersey;British victory;1781-01-06;British victory;49.18238, -2.10749
+Battle of Cowpens;https://en.wikipedia.org/wiki/Battle_of_Cowpens;January 17, 1781;South Carolina;Patriot victory;1781-01-17;Patriot victory;35.1368333333, -81.816
+Lochry's Defeat;https://en.wikipedia.org/wiki/Lochry%27s_Defeat;August 24, 1781;Quebec;British-Iroquois victory;1781-08-24;;39.0586111111, -84.9063888889

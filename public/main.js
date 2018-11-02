@@ -1,133 +1,45 @@
-$(document).ready(function() {
-  $("#cityField").keyup(function() {
-    const url = "/getcity?q="+$("#cityField").val();
-    $.getJSON(url, function(data) {
-      var everything;
-      everything = "<ul class=\"list-group\">";
-      $.each(data, function(i,item) {
-        if (item.city !== "") {
-          everything += "<li class=\"list-group-item\">"+data[i].city +"</li>";
-        }
-      });
-      everything += "</ul>";
-      $("#txtHint").html(everything);
-    }).done(function() { console.log('getJSON request succeeded!'); })
-    .fail(function(jqXHR, textStatus, errorThrown) { 
-      console.log('getJSON request failed! ' + textStatus); 
-      console.log("incoming "+jqXHR.responseText);
-    })
-    .always(function() { console.log('getJSON request ended!');
-    });
+// This example displays a marker at the center of Australia.
+// When the user clicks the marker, an info window opens.
+
+function initMap() {
+  var uluru = {lat: -25.363, lng: 131.044};
+  var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 4,
+    center: uluru
+  });
+
+  var contentString = '<div id="content">'+
+      '<div id="siteNotice">'+
+      '</div>'+
+      '<h1 id="firstHeading" class="firstHeading">Uluru</h1>'+
+      '<div id="bodyContent">'+
+      '<p><b>Uluru</b>, also referred to as <b>Ayers Rock</b>, is a large ' +
+      'sandstone rock formation in the southern part of the '+
+      'Northern Territory, central Australia. It lies 335&#160;km (208&#160;mi) '+
+      'south west of the nearest large town, Alice Springs; 450&#160;km '+
+      '(280&#160;mi) by road. Kata Tjuta and Uluru are the two major '+
+      'features of the Uluru - Kata Tjuta National Park. Uluru is '+
+      'sacred to the Pitjantjatjara and Yankunytjatjara, the '+
+      'Aboriginal people of the area. It has many springs, waterholes, '+
+      'rock caves and ancient paintings. Uluru is listed as a World '+
+      'Heritage Site.</p>'+
+      '<p>Attribution: Uluru, <a href="https://en.wikipedia.org/w/index.php?title=Uluru&oldid=297882194">'+
+      'https://en.wikipedia.org/w/index.php?title=Uluru</a> '+
+      '(last visited June 22, 2009).</p>'+
+      '</div>'+
+      '</div>';
+
+  var infowindow = new google.maps.InfoWindow({
+    content: contentString
+  });
+
+  var marker = new google.maps.Marker({
+    position: uluru,
+    map: map,
+    title: 'Uluru (Ayers Rock)'
   });
   
-  $('#weatherButton').click(function(e) {
-    const value = $("#cityField").val();
-    $("#displayCity").text(value);
-    const APIKEY = "e99bfbd114fcdfd5a5a9b7547033a197";
-    var myurl= `https://api.openweathermap.org/data/2.5/weather?units=imperial&appid=${APIKEY}&q=${value}`;
-    $.ajax({
-      url : myurl,
-      dataType : "json",
-        success : function(parsed_json) {
-          var location = parsed_json['name'];
-          var temp = parsed_json['main']['temp'];
-          var temp_min = parsed_json['main']['temp_min'];
-          var temp_max = parsed_json['main']['temp_max'];
-          var weather = `Weather: ${parsed_json['weather'][0]['main']} (${temp}&#8457;)`;
-          var weather_icon = `http://openweathermap.org/img/w/${parsed_json['weather'][0]['icon']}.png`;
-          var humidity = parsed_json['main']['humidity'];
-          
-          var wind_speed = parsed_json['wind']['speed'];
-          let result = `
-          <div class="card">
-            <div class="card-body container">
-              <div class="left-icon">
-                <img id="weatherIcon" src="${weather_icon}" class="card-img-top" alt="Card image cap">
-              </div>
-              <div class="right-icon">
-                <h5 class="card-title">${location}</h5>
-                <h6 class="card-title">${weather}</h6>
-                <h6 class="card-title">${`Low: ${temp_min}&#8457; | High: ${temp_max}&#8457;`}</h6>
-                <h6 class="card-title">${`Humidity: ${humidity}%`}</h6>
-                <h6 class="card-title">${`Wind: ${wind_speed} mph`}</h6>
-              </div>
-            </div>
-          </div>
-          `;
-          $('#weather').html(result);
-        }
-    });
-    e.preventDefault();
+  marker.addListener('click', function() {
+    infowindow.open(map, marker);
   });
-  
-  $("#submitStack").click(function(e) {
-    stackExchangeSearch();
-    e.preventDefault();
-  });
-  
-  $("#stackInput").keyup(function(e) {
-    if(e.which === 13) {
-      stackExchangeSearch();
-    }
-  });
-  
-  $("#owlSearch").click(function(e) {
-    owlSearch();  
-    e.preventDefault();
-  });
-  
-  $("#owlInput").keyup(function(e) {
-    if(e.which === 13) {
-      owlSearch();
-    }
-  });
-  
-  function stackExchangeSearch() {
-    const value = $("#stackInput").val();
-    const url = `https://api.stackexchange.com/2.2/search?order=desc&sort=activity&intitle=${value}&site=stackoverflow`
-    $.getJSON(url, function(data) {
-      var everything;
-      everything = "<ul class=\"list-group\">";
-      $.each(data.items, function(i,item) {
-        everything += "<li class=\"list-group-item\"><a href='"+data.items[i].link + "'>" + data.items[i].title + "</a></li>";
-      })
-      
-      everything += "</ul>";
-      $("#stackQuestions").html(everything);
-    }).done(function() { console.log('getJSON request succeeded!'); })
-    .fail(function(jqXHR, textStatus, errorThrown) { 
-      console.log('getJSON request failed! ' + textStatus); 
-      console.log("incoming "+jqXHR.responseText);
-    })
-    .always(function() { console.log('getJSON request ended!');
-    });
-  }
-  
-  function owlSearch() {
-    const url = "/owlbot?q="+$("#owlInput").val().toLowerCase();
-    $.getJSON(url, function(data) {
-      if(data.length > 0) {
-        console.log(data);
-        let result = `<ul class="list-group">`;
-        for(let i=0; i<data.length; i++) {
-          const definition = data[i];
-          console.log(definition);
-          result += `
-            <li class="list-group-item">
-              <h6>${`<strong>Type:</strong> ${definition.type}`}</h6>
-              <h6>${`<strong>Definition:</strong> ${definition.defenition}`}</h6>
-              <h6>${`<strong>Example:</strong> ${definition.example}`}</h6>
-            </li>`
-        }
-        result += `</ul>`;
-        $("#owlDefinition").html(result);
-      }
-    }).done(function() { console.log('getJSON request succeeded!'); })
-    .fail(function(jqXHR, textStatus, errorThrown) { 
-      console.log('getJSON request failed! ' + textStatus); 
-      console.log("incoming "+jqXHR.responseText);
-    })
-    .always(function() { console.log('getJSON request ended!');
-    });
-  }
-});
+}

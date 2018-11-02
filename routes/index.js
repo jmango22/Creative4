@@ -4,41 +4,48 @@ var request = require('request');
 var router = express.Router();
 
 // Load and store all the cities
-var cities = [];
-fs.readFile(__dirname + '/cities.dat.txt',function(err,data) {
+var battles = [];
+fs.readFile(__dirname + '/revolution.data.txt',function(err,data) {
     if(err) throw err;
-    cities = data.toString().split("\n");
+    var lines = data.toString().split("\n");
+    for(var i = 1; i<lines.length; i++) {
+        var line = lines[i].replace(/\n|\r/g, "");
+        var battleLine = line.split(";");
+        if (battleLine[7] && (battleLine[7] !== "")) {
+            var location = battleLine[7].split(",");
+            console.log(location);
+            // battle;article;date;state;outcome;start_date;victory;battle_location
+            var battle = {
+                name: battleLine[0],
+                article: battleLine[1],
+                date: battleLine[2],
+                state: battleLine[3],
+                outcome: battleLine[4],
+                start_date: battleLine[5],
+                victory: battleLine[6],
+                battle_location: {
+                    lat: location[0].toString().trim(),
+                    lng: location[1].toString().trim()
+                }
+            }
+            console.log("battle: " + i);
+            console.dir(battle);
+            
+            battles.push(battle);
+        }
+    }
+    console.dir(battles);
 });
 
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-    res.sendFile('weather.html', {root: 'public' });
+    res.sendFile('index.html', {root: 'public' });
 });
 
 /* GET city */
-router.get('/getcity', function(req, res, next) {
-    var foundCities = [];
-    var myRegex = "^";
-    if(req.query.q) {
-        var myRegex = new RegExp("^" + req.query.q.toLowerCase());
-    }
-    for(var i=0; i<cities.length; i++) {
-        var lowercaseCity = cities[i].toLowerCase();
-        if(lowercaseCity.search(myRegex) !== -1) {
-            foundCities.push({ city: cities[i] });
-        }
-    }
-    res.status(200).json(foundCities);
-});
-
-/* GET Owlbot proxy */
-router.get('/owlbot', function(req, res, next) {
-   console.log("In owlbot");
-   console.log(req.query);
-   var owlbot = 'https://owlbot.info/api/v1/dictionary/' + req.query.q;
-   request(owlbot).pipe(res);
-   
+router.get('/battles', function(req, res, next) {
+    res.status(200).json(battles);
 });
 
 module.exports = router;
